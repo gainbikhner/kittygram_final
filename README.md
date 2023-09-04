@@ -16,7 +16,7 @@
 ## Установка
 1. Склонируйте репозиторий.
 ```
-git clone git@github.com:kegone/kittygram_final.git
+git clone git@github.com:gainbikhner/kittygram_final.git
 ```
 <br>
 
